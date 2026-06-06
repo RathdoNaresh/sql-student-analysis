@@ -1,1 +1,1 @@
-# sql-student-analysis
+# SQL-student-analysis
